@@ -96,6 +96,10 @@ $ python3.7
 >>> import cv2
 ```
 
+## How to Contribute
+
+If you have any pre-compiled Machine Learning library for raspberry pi or other IoT devices, feel free to open a pull request with your contribution.
+
 
 
 
